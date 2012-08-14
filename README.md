@@ -1,5 +1,5 @@
-KMCD-Theme
-==========
+KMCD-Theme (Version 1.0)
+================
 
 A responsive WordPress-Theme for NKT-centers (and all others, who like it... ;-))
 
